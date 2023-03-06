@@ -1,0 +1,30 @@
+.icons
+{
+    display: flex;
+    margin-top: 15px;
+    padding: 10px;
+    color: gray;
+
+    
+}
+
+.icons>p{
+    font-weight: 450;
+    font-size: 15px;
+
+
+}
+
+.icons:hover{
+    color: black !important;
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+
+
+.iconcontent
+{
+   margin-right: 5px;
+   
+}

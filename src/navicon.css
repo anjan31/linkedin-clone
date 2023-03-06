@@ -1,0 +1,21 @@
+.content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.icon
+{
+   height: 30px !important;
+   width: 30px !important;
+   object-fit: contain;
+}
+
+.content:hover{
+     
+color: black;
+transition: 0.5s;
+}

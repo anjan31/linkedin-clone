@@ -1,0 +1,49 @@
+.posts
+{
+    background-color: white;
+    margin-top: 10px;
+    padding: 5px;
+    margin-bottom: 15px;
+    
+    
+}
+
+.post_content
+{
+    display: flex;
+    margin-left:10px;
+    margin-top:10px;
+
+}
+
+.Post_id
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.Post_id>p
+{
+    color: gray;
+    
+    font-weight: 300;
+}
+.msg
+{
+    font-size: smaller;
+}
+
+.messages
+{
+    margin:10px;
+
+}
+
+.reactions
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
